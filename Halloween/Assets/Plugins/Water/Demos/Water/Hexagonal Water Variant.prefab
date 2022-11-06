@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2783674090473906635
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 11.446901
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5.7819
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.3872104
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 274.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -283.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1787604308596024158, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3356731471871349069, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: m_Name
+      value: Hexagonal Water Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: waterUVs
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreFade
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: colorDepth
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreBlend
+      value: 0.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreDepth
+      value: 0.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: deepColor.b
+      value: 0.462264
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: deepColor.g
+      value: 0.38562855
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: deepColor.r
+      value: 0.25511417
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreColor.a
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreColor.b
+      value: 0.39183983
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreColor.g
+      value: 0.5188676
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreColor.r
+      value: 0.33530283
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shoreStrength
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: horizonColor.b
+      value: 0.57547164
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: horizonColor.g
+      value: 0.3714825
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: horizonColor.r
+      value: 0.290447
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shallowColor.b
+      value: 0.33018535
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shallowColor.g
+      value: 0.27104944
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: shallowColor.r
+      value: 0.16976365
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: enableRefraction
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: enableSurfaceFoam
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamCutoff
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamColor1.b
+      value: 0.26414835
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamColor1.g
+      value: 0.2219688
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamColor1.r
+      value: 0.10341505
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamColor2.b
+      value: 0.35848805
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamColor2.g
+      value: 0.30204064
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamColor2.r
+      value: 0.14711401
+      objectReference: {fileID: 0}
+    - target: {fileID: 6204750061973432295, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}
+      propertyPath: surfaceFoamSampling.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0d0369da71d04cd449eb9a06d2a89187, type: 3}

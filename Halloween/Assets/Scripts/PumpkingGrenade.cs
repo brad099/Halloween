@@ -29,9 +29,10 @@ public class PumpkingGrenade : MonoBehaviour
             }
             else if(hitRb != null)
             {
-                hitRb.AddExplosionForce(ExplosionForce, explosionPos, ExplosionRange, 20f, ForceMode.Impulse);
+                //hitRb.AddExplosionForce(ExplosionForce, explosionPos, ExplosionRange, 20f, ForceMode.Impulse);
                 hitRb.tag = "Untagged";
                 hitRb.transform.parent = this.transform;
+                hitRb.gameObject.SetActive(false);
                 this.GetComponent<MeshRenderer>().enabled = false;
             }
         }
